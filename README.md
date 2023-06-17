@@ -22,7 +22,6 @@ Firebase-admin is required for this project
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
 - [Firebase docs](https://firebase.google.com/docs/)
 - [Python documentation](https://www.python.org/doc/)
